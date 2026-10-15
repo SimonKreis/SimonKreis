@@ -1,4 +1,4 @@
-## Simon Kreis, M. Sc.
+## Simon Kreis, M.Sc.
 
 **Senior Oracle HCM & Agentic AI Consultant** · Montreal · English and French ·
 [kreisconsulting.ca](https://kreisconsulting.ca)
@@ -26,24 +26,32 @@ remotely across North America through my firm, Kreis Consulting Inc.
 Independent work, built outside client engagements. Client work is described in the CV.
 
 - **[Clockwork](https://github.com/SimonKreis/clockwork)**: test automation engine for Oracle
-  Fusion. Tests are YAML blueprints written in on-screen labels, with no selectors, and a renamed
-  field pauses the run instead of failing it. Verified by 70 offline checks and a first end-to-end
-  run on a real HCM DEV pod. TypeScript, Playwright.
-- **[keller-strategies](https://github.com/SimonKreis/keller-strategies)**: research engine built
-  as an exercise in verification discipline. 35 variants checked line by line against their source
-  papers, 762 tests, and three adversarial audits that moved every published number down. Python.
-- **[permanent-capital-index](https://github.com/SimonKreis/permanent-capital-index)**:
-  reproducible, openly specified benchmark of permanent-capital allocators, 147 listed companies,
-  2010 to 2026. Research only, not investment advice.
+  Fusion. Tests are written as the labels a person sees on screen, with no selectors; the run
+  pauses and learns the fix when a label changes. Passed a first end-to-end run on a real Fusion
+  HCM DEV pod. TypeScript, Python, Playwright.
+- **[The Self-Contained Harness](https://github.com/SimonKreis/self-contained-harness)**: framework
+  manuscript on agent-maintained context: one self-contained folder per theme, in portable files
+  that AI agents file, distill and prune while the human decides. Public draft, in progress.
+- **[The Verification Loop](https://github.com/SimonKreis/verification-loop)**: book-length theory
+  of how verification drives the performance of markets, states and AI systems. Thesis and
+  specification by the author; text drafted by orchestrated AI agents and audited against a dated
+  public source ledger. In revision.
+- **[Keller Strategies](https://github.com/SimonKreis/keller-strategies)**: Python research engine
+  for tactical asset allocation: published strategies verified line by line against their source
+  papers, explicit execution ledger, adversarial audits, extensive test suite.
+- **[Permanent Capital Index](https://github.com/SimonKreis/permanent-capital-index)**:
+  reproducible, openly specified benchmark of permanent-capital allocators, selected by structure
+  rather than past performance: data pipeline and methodology. Python. Research only, not
+  investment advice.
 
 ### Certifications
 
-- Oracle Fusion AI Agent Studio Certified Developer Professional
 - Oracle Recruiting Cloud 2026 Certified Implementation Professional
 - Oracle Talent Management Cloud 2026 Certified Implementation Professional
 - OpenAI Consultative Solutions Practitioner
+- Oracle Fusion AI Agent Studio Certified Developer Professional
 
 ### Contact
 
-Simon Kreis, M. Sc. · [simon@kreisconsulting.ca](mailto:simon@kreisconsulting.ca) ·
+Simon Kreis, M.Sc. · [simon@kreisconsulting.ca](mailto:simon@kreisconsulting.ca) ·
 [kreisconsulting.ca](https://kreisconsulting.ca) · [LinkedIn](https://www.linkedin.com/in/simonkreis/)
